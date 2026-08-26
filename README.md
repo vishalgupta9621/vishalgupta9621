@@ -1,8 +1,4 @@
-<!-- ==================== HEADER BANNER ==================== -->
 
-<!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Vishal%20Gupta&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p> -->
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
